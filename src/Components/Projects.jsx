@@ -5,7 +5,7 @@ import altitude from "../assets/altitude.png";
 import fishing from "../assets/fishing.png";
 import finance from "../assets/finance.png";
 import quake from "../assets/quake.png";
-import flavour from "../assets./flavour.png";
+import flavour from "../assets/flavour.png";
 
 const emojis = [
     [finance, "Finance Pro Site", "Loan-focused finance website with a Survey integrated with gohigh-level CRM via API for efficient data management.","https://financeprosite.netlify.app/"],
