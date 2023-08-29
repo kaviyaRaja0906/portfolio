@@ -6,6 +6,7 @@ import fishing from "../assets/fishing.png";
 import finance from "../assets/finance.png";
 import quake from "../assets/quake.png";
 import flavour from "../assets/flavour.png";
+import contact from "../assets/contact.png";
 
 const emojis = [
     [finance, "Finance Pro Site", "Loan-focused finance website with a Survey integrated with gohigh-level CRM via API for efficient data management.","https://financeprosite.netlify.app/"],
@@ -13,7 +14,7 @@ const emojis = [
     [quake, "QuakeVisio", "An insightful app that visually represents earthquake data empowering for a deeper understanding of seismic activity." , "https://radiant-salmiakki-6b61f8.netlify.app/"],
     [altitude, "Advertisement Agency", "Digital advertising agency website offering social media pricing, ad descriptions, and easy call bookings, " ,"https://agency-altitude.netlify.app"],
     [flavour, "Flavour Quest", "Feeding Your Flock Right: Premium Chicken Starters with dips delivered.","https://flavourquest78.netlify.app/"],
-    [fishing, "Great Fishing", "Get the freshest fish delivered to your doorstep recipes - all in one convenient website!", "https://greatfishing.netlify.app"],
+    [contact, "Contact Hub", "Manage your contacts and see covid case fluctuations", "https://contactsmanagement.netlify.app/"],
     [quake, "QuakeVisio", "An insightful app that visually represents earthquake  empowering for deeper understanding of seismic activity.", "https://radiant-salmiakki-6b61f8.netlify.app/"],
     [altitude, "Advertisement Agency", "Digital advertising agency website offering social media pricing, ad descriptions, and easy call bookings." ,"https://agency-altitude.netlify.app"],
      [flavour, "Flavour Quest", "Feeding Your Flock Right: Premium Chicken Starters with dips delivered.","https://flavourquest78.netlify.app/"],
